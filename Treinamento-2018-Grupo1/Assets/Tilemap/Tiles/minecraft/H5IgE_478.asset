@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: H5IgE_478
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300956, guid: 50d97c5ddd38e7b4498e2dc9736a3563, type: 3}
+  m_Sprite: {fileID: 21300956, guid: 99f3a1fa68168194ba5de6d4879b93d0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
