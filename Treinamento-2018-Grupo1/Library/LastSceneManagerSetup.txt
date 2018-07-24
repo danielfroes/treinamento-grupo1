@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/teste.unity
+- path: Assets/Scenes/Tela 2.unity
   isLoaded: 1
   isActive: 1
